@@ -1,3 +1,7 @@
+In this repo I'm trying to learn UseState and try to develop a party planner where you can invite people and have their name, age, url and a note info available.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
